@@ -10,12 +10,17 @@ p{
 }
 
 h1{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: white;
 	font-size: 55px;
 }
 
 h2{
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+h3{
 	color: white;
 	font-family: 'Raleway', sans-serif;
 }
