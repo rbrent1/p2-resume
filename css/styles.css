@@ -11,13 +11,10 @@ p{
 
 h1{
 	font-family: 'Raleway', sans-serif;
-	color: url(../img/bg.png);
+	color: white;
 	font-size: 55px;
-	width: 1000px;
-	height: 100px;
-	background: white;
 	text-align: center;
-	
+
 
 }
 
