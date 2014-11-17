@@ -1,6 +1,23 @@
 /* Your Website Styles */
 body {
-	background: #eee;
+	background: url(../img/bg.png);
+}
+
+p{
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 55px;
+}
+
+h2{
+	color: white;
+	font-family: 'Raleway', sans-serif;
 }
 
 
