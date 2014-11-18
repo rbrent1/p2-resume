@@ -7,7 +7,6 @@ p{
 	color: white;
 	font-family: 'Raleway', sans-serif;
 	font-size: 18px;
-	text-align: center;
 }
 
 ul{
@@ -39,6 +38,11 @@ h3{
 
 div {
 	margin-top: -60px;	x 
+}
+
+#line-separator {
+	height: 1px;
+	color: #4DE7FF;
 }
 
 
