@@ -62,11 +62,9 @@ a:link {
 
 }
 
-li:before {
-	color: #00EBE7;
-	list-style: square;
+.bullet-trick ul li {
+color: #00EBE7;
 }
-
 
 /* Show Grid */
 .showgrid {
