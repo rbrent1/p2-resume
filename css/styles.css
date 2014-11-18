@@ -62,7 +62,7 @@ a:link {
 
 }
 
-li {
+li:before {
 	color: #00EBE7;
 	list-style: square;
 }
