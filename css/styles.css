@@ -62,6 +62,10 @@ a:link {
 
 }
 
+li {
+	color: #00EBE7;
+	list-style: square;
+}
 
 
 /* Show Grid */
