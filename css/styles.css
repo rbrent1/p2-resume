@@ -35,7 +35,9 @@ h3{
 }
 
 hr {
-	color: #00EBE7;
+	background: #00EBE7;
+	height: 7px;
+	border: none;
 }
 
 
