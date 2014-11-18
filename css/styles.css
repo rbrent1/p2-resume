@@ -19,8 +19,9 @@ ul{
 h1{
 	font-family: 'Alex Brush', cursive;
 	color: white;
-	font-size: 40px;
+	font-size: 100px;
 	text-align: center;
+	margin: 0;
 }
 
 h2{
